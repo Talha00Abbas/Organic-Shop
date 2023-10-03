@@ -1,0 +1,8 @@
+
+product name: Harpic
+product id: 41
+cost price of product: 0.75
+selling price of product: 1
+quantity: 12
+ total cost: 9
+sell: 12

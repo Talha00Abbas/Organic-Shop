@@ -1,0 +1,8 @@
+
+product name: Eggs
+product id: 13
+cost price of product: 0.25
+selling price of product: 0.8
+quantity: 36
+ total cost: 9
+sell: 28.8

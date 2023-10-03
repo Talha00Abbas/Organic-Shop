@@ -1,0 +1,8 @@
+
+product name: Apples
+product id: 14
+cost price of product: 1
+selling price of product: 1.1
+quantity: 10
+ total cost: 10
+sell: 11

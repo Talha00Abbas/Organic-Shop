@@ -1,0 +1,8 @@
+
+product name: Chips
+product id: 20
+cost price of product: 1
+selling price of product: 1.05
+quantity: 20
+ total cost: 20
+sell: 21

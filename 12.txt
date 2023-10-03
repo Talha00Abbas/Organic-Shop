@@ -1,0 +1,8 @@
+
+product name: Milk
+product id: 12
+cost price of product: 4
+selling price of product: 4.25
+quantity: 10
+ total cost: 40
+sell: 42.5

@@ -1,0 +1,8 @@
+
+product name: Shampoo
+product id: 31
+cost price of product: 2
+selling price of product: 2.25
+quantity: 40
+ total cost: 80
+sell: 90

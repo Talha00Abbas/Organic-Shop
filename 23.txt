@@ -1,0 +1,8 @@
+
+product name: Wheat
+product id: 23
+cost price of product: 3
+selling price of product: 3.25
+quantity: 20
+ total cost: 60
+sell: 65

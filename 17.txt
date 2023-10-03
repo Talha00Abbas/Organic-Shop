@@ -1,0 +1,8 @@
+
+product name: Carrots
+product id: 17
+cost price of product: 1
+selling price of product: 1.2
+quantity: 10
+ total cost: 10
+sell: 12

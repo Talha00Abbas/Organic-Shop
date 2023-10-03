@@ -1,0 +1,8 @@
+
+product name: Onions
+product id: 16
+cost price of product: 1
+selling price of product: 1.1
+quantity: 6
+ total cost: 6
+sell: 6.6

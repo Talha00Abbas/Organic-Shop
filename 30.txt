@@ -1,0 +1,8 @@
+
+product name: Soap
+product id: 30
+cost price of product: 1
+selling price of product: 1.25
+quantity: 50
+ total cost: 50
+sell: 62.5

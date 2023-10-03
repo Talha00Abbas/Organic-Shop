@@ -1,0 +1,8 @@
+
+product name: Beef
+product id: 11
+cost price of product: 7.25
+selling price of product: 7.5
+quantity: 2
+ total cost: 14.5
+sell: 15

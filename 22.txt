@@ -1,0 +1,8 @@
+
+product name: Spices
+product id: 22
+cost price of product: 4
+selling price of product: 5
+quantity: 5
+ total cost: 20
+sell: 25

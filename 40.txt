@@ -1,0 +1,8 @@
+
+product name: Detergent
+product id: 40
+cost price of product: 1.75
+selling price of product: 2
+quantity: 13
+ total cost: 22.75
+sell: 26

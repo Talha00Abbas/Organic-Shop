@@ -1,0 +1,8 @@
+
+product name: Banana
+product id: 15
+cost price of product: 0.75
+selling price of product: 1
+quantity: 48
+ total cost: 36
+sell: 48

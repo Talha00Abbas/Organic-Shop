@@ -1,0 +1,15 @@
+﻿  Main.cpp
+D:\SEMESTER 3\OOP PROJECT\Organic Shop\Amount.h(139,10): warning C4101: 'name': unreferenced local variable
+D:\SEMESTER 3\OOP PROJECT\Organic Shop\Amount.h(173,10): warning C4101: 'file2': unreferenced local variable
+D:\SEMESTER 3\OOP PROJECT\Organic Shop\Amount.h(169,10): warning C4101: 'c': unreferenced local variable
+D:\SEMESTER 3\OOP PROJECT\Organic Shop\Amount.h(168,10): warning C4101: 'pid': unreferenced local variable
+D:\SEMESTER 3\OOP PROJECT\Organic Shop\Amount.h(201,10): warning C4101: 'c': unreferenced local variable
+D:\SEMESTER 3\OOP PROJECT\Organic Shop\Mall.h(58,10): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+D:\SEMESTER 3\OOP PROJECT\Organic Shop\Main.cpp(112,26): warning C4309: 'initializing': truncation of constant value
+D:\SEMESTER 3\OOP PROJECT\Organic Shop\Main.cpp(257,29): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+D:\SEMESTER 3\OOP PROJECT\Organic Shop\Main.cpp(261,24): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+D:\SEMESTER 3\OOP PROJECT\Organic Shop\Main.cpp(406,17): warning C4101: 'i': unreferenced local variable
+D:\SEMESTER 3\OOP PROJECT\Organic Shop\Main.cpp(490,10): warning C4101: 'pwd': unreferenced local variable
+D:\SEMESTER 3\OOP PROJECT\Organic Shop\Main.cpp(489,10): warning C4101: 'password': unreferenced local variable
+D:\SEMESTER 3\OOP PROJECT\Organic Shop\Main.cpp(786,10): warning C4101: 'file': unreferenced local variable
+  Organic Shop.vcxproj -> D:\SEMESTER 3\OOP PROJECT\Organic Shop\x64\Debug\Organic Shop.exe

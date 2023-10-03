@@ -1,0 +1,8 @@
+
+product name: Biscuits
+product id: 21
+cost price of product: 0.5
+selling price of product: 0.65
+quantity: 10
+ total cost: 5
+sell: 6.5
